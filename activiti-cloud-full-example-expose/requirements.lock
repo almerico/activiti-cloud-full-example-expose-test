@@ -1,0 +1,15 @@
+dependencies:
+- name: exposecontroller
+  repository: http://chartmuseum.build.cd.jenkins-x.io
+  version: 2.3.69
+- name: exposecontroller
+  repository: http://chartmuseum.build.cd.jenkins-x.io
+  version: 2.3.69
+- name: infrastructure
+  repository: https://activiti.github.io/activiti-cloud-charts/
+  version: 0.1.6
+- name: application
+  repository: https://activiti.github.io/activiti-cloud-charts/
+  version: 0.1.16
+digest: sha256:552db9bcede38dc421414f8122e8d3e1475f3e706dea4440fc7c022e28ce721c
+generated: 2018-08-01T11:07:01.757607531+01:00
